@@ -21,9 +21,9 @@ function y = myPoly(x)
 %
 % Authors: Jannik Wiessler, Frederik Esau
 % email: inf20092@lehre.dhbw-stuttgart.de
-% April 2022; Last revision: 02-April-2022
+% April 2022; Last revision: 05-April-2022
 
 %------------- BEGIN CODE --------------
 y = (x-3)^2;
-%y = log(x^(x-sqrt(x)))-10;      % another function you can try
+% y = (x^2-3*x+3)/(x^3-10)+0.5; % another function you can try
 end
